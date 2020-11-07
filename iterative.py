@@ -1,5 +1,5 @@
-arr = [1, 3, 5, 7, 10]
-num = 10
+arr = [1, 3, 5, 7, 10] # Create a list
+num = 10            # Select a number
 def binary_search_ite(arr, first, last, num):
     mid = 0
 
