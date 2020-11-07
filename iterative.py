@@ -4,9 +4,9 @@ def binary_search_ite(arr, first, last, num):
     mid = 0
 
     while first <= last:
-        mid = (first + last)//2
+        mid = (first + last)//2 # Searching for the middle off array 
         
-        if arr[mid] < num:
+        if arr[mid] < num: 
             first = mid + 1
         
         elif arr[mid] > num:
