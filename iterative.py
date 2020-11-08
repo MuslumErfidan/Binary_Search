@@ -10,7 +10,7 @@ def binary_search_ite(arr, first, last, num): # Binary Search function
             first = mid + 1 # Making the array half and remaking the first named variable
         
         elif arr[mid] > num: # Checking for the middle of array and variable(num)
-            last = mid - 1 # Making the array half and remaking the last name variable
+            last = mid - 1 # Making the array half and remaking the last named variable
             
         else: # If middle of array is equal to our variable that named num
             return mid
