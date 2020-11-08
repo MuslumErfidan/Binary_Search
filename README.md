@@ -1,5 +1,5 @@
 # Veri Yapıları
-Binary_Search
+Binary_Search algoritmasının python dilinde iteratif ve özyinelemeli olarak kodlanması, kodların zamansal analizi,BigO notasyonundaki algoritma karmaşıklığı ve özyineleme türünün belirlenmesidir.
 
 
 Müslüm Erfidan  365349
